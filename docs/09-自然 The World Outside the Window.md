@@ -186,7 +186,7 @@ I have stopped pretending this is a metaphor. The barometer is a tool and it is 
 
 The window faces north and the river is four miles away and the field will be yellow in July. I write all of this down because I promised my grandmother I would, and because a record is a kind of respect, and because in about forty years somebody will find this notebook and be curious about it, and the least they deserve is an accurate description of what a person in this valley, in this decade, actually saw out the window.
 
-If you want the practical version of all this, [[A Day in the Life]] covers what an ordinary working day actually asks of you, and [[How Work Actually Works]] has the other side of it, the part where the outside world does not schedule itself. Between the two of them, that is most of what I know.
+If you want the practical version of all this, [A Day in the Life](01-%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%20A%20Day%20in%20the%20Life.md) covers what an ordinary working day actually asks of you, and [How Work Actually Works](02-%E5%B7%A5%E4%BD%9C%20How%20Work%20Actually%20Works.md) has the other side of it, the part where the outside world does not schedule itself. Between the two of them, that is most of what I know.
 
 ## What the Window Is For
 

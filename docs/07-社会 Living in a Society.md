@@ -130,7 +130,7 @@ Community is a kind of **cooperation** that must be rebuilt every day, because i
 
 The **hero** is the person who knows all this and stays **calm** on an ordinary Tuesday. The **poem** is small. The **mood** is mostly steady. The **soul** of a society is not its loudest day but its **average** one, and that is built, day by day, by people who will never make a **title** or a **chart** for it.
 
-If you want a fuller picture, read also [[The Shape of a City]] and [[How Work Actually Works]].
+If you want a fuller picture, read also [The Shape of a City](03-%E5%9F%8E%E5%B8%82%20The%20Shape%20of%20a%20City.md) and [How Work Actually Works](02-%E5%B7%A5%E4%BD%9C%20How%20Work%20Actually%20Works.md).
 
 ## The People Behind the Numbers
 

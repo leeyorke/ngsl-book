@@ -6,18 +6,18 @@
 
 | 篇号 | 英文标题 | 主题 | 词数 |
 | --- | --- | --- | --- |
-| 01 | [[A Day in the Life]] | 日常生活 | 8,770 |
-| 02 | [[How Work Actually Works]] | 工作 | 7,514 |
-| 03 | [[The Shape of a City]] | 城市 | 3,071 |
-| 04 | [[The Long Way There]] | 旅行 | 4,340 |
-| 05 | [[How We Know What We Know]] | 科学 | 5,573 |
-| 06 | [[Tools That Change the Way We Live]] | 技术 | 4,925 |
-| 07 | [[Living in a Society]] | 社会 | 3,391 |
-| 08 | [[Reading the Traces of Time]] | 历史 | 7,350 |
-| 09 | [[The World Outside the Window]] | 自然 | 7,256 |
-| 10 | [[The People Around Us]] | 人际关系 | 4,815 |
-| 11 | [[The Weight of a Choice]] | 问题与选择 | 5,779 |
-| 12 | [[Everything Holds Together]] | 总结性长篇 | 4,338 |
+| 01 | [A Day in the Life](01-%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%20A%20Day%20in%20the%20Life.md) | 日常生活 | 8,770 |
+| 02 | [How Work Actually Works](02-%E5%B7%A5%E4%BD%9C%20How%20Work%20Actually%20Works.md) | 工作 | 7,514 |
+| 03 | [The Shape of a City](03-%E5%9F%8E%E5%B8%82%20The%20Shape%20of%20a%20City.md) | 城市 | 3,071 |
+| 04 | [The Long Way There](04-%E6%97%85%E8%A1%8C%20The%20Long%20Way%20There.md) | 旅行 | 4,340 |
+| 05 | [How We Know What We Know](05-%E7%A7%91%E5%AD%A6%20How%20We%20Know%20What%20We%20Know.md) | 科学 | 5,573 |
+| 06 | [Tools That Change the Way We Live](06-%E6%8A%80%E6%9C%AF%20Tools%20That%20Change%20the%20Way%20We%20Live.md) | 技术 | 4,925 |
+| 07 | [Living in a Society](07-%E7%A4%BE%E4%BC%9A%20Living%20in%20a%20Society.md) | 社会 | 3,391 |
+| 08 | [Reading the Traces of Time](08-%E5%8E%86%E5%8F%B2%20Reading%20the%20Traces%20of%20Time.md) | 历史 | 7,350 |
+| 09 | [The World Outside the Window](09-%E8%87%AA%E7%84%B6%20The%20World%20Outside%20the%20Window.md) | 自然 | 7,256 |
+| 10 | [The People Around Us](10-%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%20The%20People%20Around%20Us.md) | 人际关系 | 4,815 |
+| 11 | [The Weight of a Choice](11-%E9%97%AE%E9%A2%98%E4%B8%8E%E9%80%89%E6%8B%A9%20The%20Weight%20of%20a%20Choice.md) | 问题与选择 | 5,779 |
+| 12 | [Everything Holds Together](12-%E6%80%BB%E7%BB%93%20Everything%20Holds%20Together.md) | 总结性长篇 | 4,338 |
 
 **12 篇合计约 67,000 词。**
 

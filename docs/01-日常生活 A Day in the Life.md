@@ -408,7 +408,7 @@ It is not much of a day. It does not have a rise or a fall. It has a plate, a do
 
 I would not change much of it, and I am not in a **hurry**.
 
-If you want the same day from a wider angle, read [[The Shape of a City]] and [[The People Around Us]].
+If you want the same day from a wider angle, read [The Shape of a City](03-%E5%9F%8E%E5%B8%82%20The%20Shape%20of%20a%20City.md) and [The People Around Us](10-%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%20The%20People%20Around%20Us.md).
 
 ## One More Thing About Mornings
 

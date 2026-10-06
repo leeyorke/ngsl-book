@@ -126,7 +126,7 @@ That is all. A **point** of light in a **dark** room, a sentence, a **reason** t
 
 So I will **say** the thing and let it stand. If you are at the beginning of this, or in the **long** middle of it, my whole advice is five words and you have heard them already: **write it down and read it back**. A **system** this simple will not **increase** your **service** to anybody, and it will not look **like** much from the **outside**, and I **promise** you it is enough. **Yes** — that is the **problem**, and it is the **issue**, and it is the one **fact** I have about people: almost nobody **provides** the world with anything at all, and the ones who do are not usually the ones we expected. It might be you on a **new** Tuesday, in a **new** **room**, with one clear sentence. I have to **believe** that a little, or I would not keep going.
 
-If you want to know how the smaller parts of this actually work, they are in the pieces I wrote before: [[A Day in the Life]], [[How Work Actually Works]], [[The World Outside the Window]]. This is only the thread that runs through them. The thread is thinner than the cloth. But it is the reason the cloth holds.
+If you want to know how the smaller parts of this actually work, they are in the pieces I wrote before: [A Day in the Life](01-%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%20A%20Day%20in%20the%20Life.md), [How Work Actually Works](02-%E5%B7%A5%E4%BD%9C%20How%20Work%20Actually%20Works.md), [The World Outside the Window](09-%E8%87%AA%E7%84%B6%20The%20World%20Outside%20the%20Window.md). This is only the thread that runs through them. The thread is thinner than the cloth. But it is the reason the cloth holds.
 
 ---
 
