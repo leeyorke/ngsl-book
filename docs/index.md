@@ -37,3 +37,4 @@
 ## 相关笔记
 
 - 词源文件：`D:\myfile\NGSL词汇表\NGSL_1.2_stats.csv`
+- 配套音频：[NGSl-网易云播客](https://music.163.com/#/djradio?id=1499653032)
